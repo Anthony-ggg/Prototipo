@@ -140,4 +140,4 @@ Lista de reseñas recientes
 Respuestas directas a clientes
 
 Gestión de etiquetas/categorías
-   `npm run dev`
+
