@@ -5,7 +5,7 @@
 #Puedes ver tu app en AI Studio:
 https://ai.studio/apps/drive/1k6d2Wh2L1GHE6D1sBeE4RFQsN8s2Nv1Y
 
-Ejecutar Localmente
+▶️ Cómo ejecutar el prototipo en tu PC
 
 Requisitos previos: Node.js
 
