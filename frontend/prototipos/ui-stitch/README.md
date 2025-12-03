@@ -25,7 +25,7 @@ A continuación se detallan las ocho pantallas principales del flujo, con su pro
 
 1. Pantalla de Inicio (Home / Landing Page)
 
-* Objetivo: captar la atención y motivar la búsqueda.
+Objetivo: captar la atención y motivar la búsqueda.
 Elementos clave:
 
 - Header de navegación
@@ -40,7 +40,7 @@ Elementos clave:
 
 2. Pantalla de Exploración y Filtros (Search Listing)
 
-* Objetivo: permitir refinar la búsqueda.
+Objetivo: permitir refinar la búsqueda.
 Elementos:
 
 - Sidebar con filtros (categoría, distancia, valoración)
@@ -62,10 +62,10 @@ Elementos:
 
 4. Ficha de Detalle del Negocio (Business Detail)
 
-* Objetivo: brindar toda la información necesaria para decidir.
+Objetivo: brindar toda la información necesaria para decidir.
 Elementos:
 
-Galería de fotos
+- Galería de fotos
 
 - Horarios, dirección y datos operativos
 
@@ -77,7 +77,7 @@ Galería de fotos
 
 5. Pantalla de Autenticación (Login / Sign Up)
 
-* Objetivo: acceso seguro para usuarios y propietarios.
+Objetivo: acceso seguro para usuarios y propietarios.
 Elementos:
 
 * Formulario con validaciones visuales
@@ -99,7 +99,7 @@ Elementos:
 
 7. Dashboard: Edición de Perfil con IA
 
-* Objetivo: mejorar la calidad del contenido del negocio.
+Objetivo: mejorar la calidad del contenido del negocio.
 Elementos:
 
 * Formularios de edición de datos
@@ -108,7 +108,7 @@ Elementos:
 
 8. Dashboard: Gestión de Contenido y Reseñas
 
-* Objetivo: manejar la presencia visual y comunicacional del negocio.
+Objetivo: manejar la presencia visual y comunicacional del negocio.
 Elementos:
 
 * Gestor de imágenes (subir/eliminar)
